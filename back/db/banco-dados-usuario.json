@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "Teste",
+    "email": "teste@teste.com.br",
+    "password": "$2b$10$bSGebbL/OCOqneT7aBu3UeIoCd4NIuXBSyL0QcIm3SSid/b3Jj3au"
+  },
+  {
+    "id": 2,
+    "username": "DevU",
+    "email": "devu@unifei.edu.br",
+    "password": "$2b$10$b2/kBhyqhgHMHb8CCtIoFeexEpImP2g6I7O7Ha7DOMvXENEk7Wkwu"
+  },
+  {
+    "id": 3,
+    "username": "João Pedro",
+    "email": "joaopedro@unifei.edu.br",
+    "password": "$2b$10$Mtxevo8Q.mqNO3fbdOpLHeVGfMHTEI3RzKEuFG8HAFQr4KukZ0.CO"
+  }
+]

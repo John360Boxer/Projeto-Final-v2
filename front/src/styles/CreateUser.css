@@ -1,0 +1,24 @@
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    /* size: 9px; */
+    margin-bottom: 20px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.erro {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+

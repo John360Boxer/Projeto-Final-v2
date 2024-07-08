@@ -1,0 +1,19 @@
+.auth-error {
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.auth-error h1 {
+    color: red;
+}
+
+.auth-error p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.auth-error .btn {
+    font-size: 16px;
+    padding: 10px 20px;
+}
